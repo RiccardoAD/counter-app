@@ -12,3 +12,6 @@ The idea I started with was to recreate the counter with a design resembling a g
 Skills for this project
 -javascript
 
+preview
+
+https://riccardoad.github.io/counter-app/
